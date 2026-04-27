@@ -1,0 +1,8 @@
+services:
+
+  backend:
+    build:
+      context: .
+      dockerfile: ./dpdp-backend/Dockerfile
+    ports:
+      - "8000:8000"

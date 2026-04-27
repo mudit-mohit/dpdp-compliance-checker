@@ -128,7 +128,7 @@ The system analyzes compliance with 5 key DPDP clauses:
 
 #### 1. Clone Repository
 ```bash
-git clone https://github.com/lokeshreddy47/dpdp-compliance-checker.git
+git clone https://github.com/mudit-mohit/dpdp-compliance-checker.git
 cd dpdp-compliance-checker
 ```
 
@@ -377,19 +377,13 @@ docker-compose up --build --no-cache
 
 ## Contributors 👨‍💻
 
-- **Lokesh Reddy** - Full Stack Developer
-
----
-
-## License 📄
-
-This project is provided as-is for educational purposes.
+- **Mudit Mohit** - Full Stack Developer
 
 ---
 
 ## Contact & Support 📧
 
-- GitHub: [lokeshreddy47/dpdp-compliance-checker](https://github.com/lokeshreddy47/dpdp-compliance-checker)
+- GitHub: [mudit-mohit/dpdp-compliance-checker](https://github.com/mudit-mohit/dpdp-compliance-checker)
 - Issues: Report bugs via GitHub Issues
 
 ---
